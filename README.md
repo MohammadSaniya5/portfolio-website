@@ -74,7 +74,7 @@ Whenever new updates are pushed to the GitHub repository, the website is automat
 If you would like to connect, collaborate, or discuss opportunities, feel free to reach out:
 
 - [GitHub](https://github.com/MohammadSaniya5)
-- [LinkedIn](https://www.linkedin.com/in/mohammad-saniya-859b31365/))
+- [LinkedIn](https://www.linkedin.com/in/mohammad-saniya-859b31365/)
 
 ---
 
